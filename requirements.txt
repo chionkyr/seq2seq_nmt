@@ -1,0 +1,6 @@
+tensorflow == 2.4.1
+tensorflow-io == 0.17.0
+nltk == 3.5
+jiwer == 2.2.0
+numpy == 1.19.5
+matplotlib == 3.3.4
